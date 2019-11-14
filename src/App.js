@@ -4,8 +4,7 @@ import TodoApp from "./components/TodoApp"
 
 function App() {
   return (
-    <div className="App">
-      <h1>React - Simple ToDo</h1>
+    <div>
       <TodoApp />
     </div>
   );
